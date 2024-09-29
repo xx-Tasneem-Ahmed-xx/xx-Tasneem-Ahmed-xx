@@ -2,7 +2,9 @@
 
 ###
 
-![Pudgy Penguins Working GIF](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif)
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Pudgy Penguins Working GIF">
+</div>
 
 ###
 

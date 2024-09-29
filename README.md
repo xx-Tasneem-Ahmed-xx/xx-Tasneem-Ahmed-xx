@@ -2,7 +2,7 @@
 
 ###
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Pudgy Penguins Working GIF">
 </div>
 

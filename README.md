@@ -16,10 +16,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xx-Tasneem-Ahmed-xx/xx-Tasneem-Ahmed-xx/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Programming Languages 💻</h2>
 
 ###

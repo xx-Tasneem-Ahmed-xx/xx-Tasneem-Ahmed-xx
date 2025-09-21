@@ -2,13 +2,9 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Pudgy Penguins Working GIF" align="right" width="200">
 
-<p align="left">Passionate Computer Engineering student with a track record of delivering innovative projects and a commitment to learning cutting-edge technologies. Skilled in web development and software engineering, eager to tackle real-world challenges.</p>
+<p align="left">A passionate Computer Engineering student with a track record of delivering innovative projects and a commitment to learning cutting-edge technologies. Skilled in web development and software engineering, eager to tackle real-world challenges.</p>
 
 ###
 

@@ -17,12 +17,10 @@
 
 <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Pudgy Penguins Working GIF" align="right" width="200">
 
-<p align="left">A Computer Engineering student at <b>Cairo University</b> with a strong focus on building scalable, real-world systems.
-Experienced across frontend, backend and system-level development, with a passion for clean architecture,
-performance and learning cutting-edge technologies.
+<p align="left"> A Computer Engineering student at <b>Cairo University</b> with a strong passion for open-source contribution and collaborative development. Active in competitive programming and open-source communities. I enjoy building scalable, real-world systems across frontend, backend and system-level development. I care about clean architecture, performance and continuously exploring modern technologies while contributing back to the ecosystem I learn from.
 </p>
 
-<br><br><br><br>
+<br><br>
 
 ## Languages
 

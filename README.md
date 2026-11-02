@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Tasneem+Ahmed"/>
 </h1>
-<h3 align="center">Full-Stack Engineer</h3>
+<h3 align="center">Full-Stack Engineer | Data Engineer</h3>
 
 <div align="center">
 <a href="mailto:tasneemahmedsayed@gmail.com">
